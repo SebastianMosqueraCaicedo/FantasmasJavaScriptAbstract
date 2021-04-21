@@ -4,3 +4,5 @@
 
 ### A partir del código disponible en este repositorio, implemente herencia de clases en Javascript.
 
+#### Hecho
+
